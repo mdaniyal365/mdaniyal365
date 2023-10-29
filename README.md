@@ -29,7 +29,5 @@ I am a self-taught web developer. My passion for software lies with dreaming up 
 
 ### My GitHub Stats
 
-// ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdaniyal365&count_private=true&show_icons=true&theme=radical)
-
 ![Mohammad's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdaniyal365&theme=radical)
 
