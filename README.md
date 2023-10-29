@@ -3,7 +3,7 @@
 I am a self-taught web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 - 🌍 I'm based in India 🇮🇳
-- 🖥️ See my portfolio at [Here](https://lnkd.in/dDp9Xdfj)
+- 🖥️ See my portfolio at [Here](https://daniyal-protfolio.netlify.app/)
 - 🤝 I'm open to collaborating on Interesting Projects
 
 ## Skills
